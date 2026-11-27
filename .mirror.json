@@ -1,5 +1,10 @@
 {
- "assets": {},
+ "assets": {
+  "stylized-nature-megakit": "bbefe704a8b28306c2bd6f37e5bafa3128874102",
+  "textured-cute-monster-pack": "d7b9b6fba78dce17d2e200dc11194ed35e27551a",
+  "universal-animation-library": "3ec0239489c3e4ff41b80c72899931ae45571045",
+  "universal-animation-library-2": "81a92c2bfd4999f8be2bd771e55cc01be38e7869"
+ },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
  "site": "https://opengameart.org",
  "source": "opengameart",
